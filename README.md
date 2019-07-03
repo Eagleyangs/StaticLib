@@ -1,0 +1,2 @@
+# StaticLib
+QT StaticLib
